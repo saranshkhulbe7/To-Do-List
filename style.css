@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+}
+.main{
+  color: black;
+  background-color: #FEEF94;
+  text-align: center;
+  height: 600px;
+  width: 400px;
+  border-radius: 25px;
+  margin-left: 510px;
+  margin-right : 510px;
+  margin-top: 50px;
+}
+.upper{
+  height: 270px;
+  width: 400px;
+}
+.pic{
+  height: 270px;
+  width: 400px;
+  border-radius: 25px 25px 0px 0px;
+}
+.in{
+  margin-top: 270px;
+  /* border: 2px solid #FED66A; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+  border-left: 6px solid #FDC75F;
+  background-color: #FAF871;
+}
+::placeholder{
+  color: #black;
+}
